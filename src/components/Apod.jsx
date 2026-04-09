@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_KEY = "V3YDDvVsrsxh8AcFqRcyQZOV2jV7vabty26y9vIW";
+const API_KEY = "Ypur NASA API";
 
 function Apod() {
   const [apodData, setApodData] = useState(null);
