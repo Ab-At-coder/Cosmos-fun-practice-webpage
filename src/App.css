@@ -1,0 +1,9 @@
+/* we barely need this file anymore since we're using inline styles */
+/* but let's keep one useful utility here */
+
+.page-container {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  /* centers content and limits width on large screens */
+}
